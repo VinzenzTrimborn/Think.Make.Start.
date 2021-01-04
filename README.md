@@ -3,8 +3,8 @@
 [//]: # (Image References)
 [image1]: ./examples/simulator.png "Recovery Image"
 [image2]: ./examples/ultrasonic.jpeg "Ultrasonic"
-[image3]: ./examples/placeholder_small.png "Normal Image"
-[image4]: ./examples/placeholder_small.png "Normal Image"
+[image3]: ./examples/robotArm.jpeg "Robot Arm"
+[image4]: ./examples/LIDAR.jpeg "LIDAR"
 
 #### A **warm welcome** on my Github page. 
 
@@ -43,6 +43,8 @@ After gaining so many insight into the automation industry, I decided to dive de
 
 
 ![alt text][image2]
+![alt text][image3]
+![alt text][image4]
 Here you see an image of an ultrasonic sensor connected to an Arduino to retrieve sensor data from it and the Lidar connected to a computer to visulaize the data. The last pic shows the robot arm which is used to remove the concrete (holding a high pressure water gun).
 
 ### 4. Check [Waterfilter](https://waterfilter.care) out.

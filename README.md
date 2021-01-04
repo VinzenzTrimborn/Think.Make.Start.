@@ -32,7 +32,7 @@ After my studies at NTU, which were mostly based on Simulation and Business, I g
 
 During that time a built a software prototype which might be rolled out within the next year as part of a new product. I can not share details but if it is rolled out its going to be a part of this [product](https://kinexon.com/de/robotik). 
 
-After gaining so many insight into the automation industry, I decided to dive deeper into hardware instead of Information Systems (my current Study program) and applied for a Modular Robotics Masters project. Currently, we are testing robots/sensors, to automate the difficult task of concrete removal in the construction industry. In a small group, we set up a navigation stack and mounted a LIDAR onto a mobile platform to test out the abilities of localization and navigation in foggy/dirty air construction environments. Thats the Navigation Stack in [Simulation, if you are unfamilar with Gazebo and ROS](https://youtu.be/7Jnp075ZveI). 
+After gaining so many insight into the automation industry, I decided to dive deeper into hardware instead of Information Systems (my current Study program) and applied for a Modular Robotics Masters project. Currently, we are testing robots/sensors, to automate the difficult task of concrete removal in the construction industry. In a small group, we set up a navigation stack and mounted a LIDAR onto a mobile platform to test out the abilities of localization and navigation in foggy/dirty air construction environments. Thats the Navigation Stack in [Simulation (Rviz and Gazebo)](https://youtu.be/7Jnp075ZveI). 
 
 
 ![alt text][image2]

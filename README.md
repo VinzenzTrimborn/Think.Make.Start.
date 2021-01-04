@@ -18,7 +18,7 @@ All in all I learn a lot of the fundamentals of robotics. Here you can check out
 
 ### 1. [Behaviour Cloning with CNN in Simulation (Click here to find out more)](https://github.com/VinzenzTrimborn/Behavioral-Cloning)
 
-<img src="./examples/simulator.png" alt="drawing" width="800" height=800/>
+<img src="./examples/simulator.png" alt="drawing" width="600" height=450/>
 
 
 ### 2. [Traffic Sign Classifier (Click here to find out more)](https://github.com/VinzenzTrimborn/TrafficSignClassifier)

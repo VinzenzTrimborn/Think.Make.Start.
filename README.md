@@ -22,6 +22,8 @@ I began teaching myself and trying out things besides university in Mid 2019 aft
  
 In the end, I had the change to even upload my ROS code on a self-driving car and to let it drive around based on waypoints in a parking lot. 
 
+Check it out on [YouTube](https://youtu.be/89S7Zg-x7hw) (it sadly did not recogize the red light.)
+
 After my studies at NTU, which were mostly based on Simulation and Business, I got an Internship at KINEXON one of the most exciting IoT Companies in Munich. I worked as part of the Product Management Team, where I gained a lot of insights into the production industry. I learned a lot about the requirements and technical standards and the potential Industrie 4.0 has.
 
 During that time a built a software prototype which might be rolled out within the next year as part of a new product. 

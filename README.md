@@ -38,14 +38,22 @@ After gaining so many insight into the automation industry, I decided to dive de
 ![alt text][image2]
 Here you see an image of an ultrasonic sensor connected to an Arduino to retrieve sensor data from it.
 
+Last I want to mention a social project. Before I got deeply involved into tech I managed a social student startup, which currencly produces water filters in Kasulu Tanzania. Lounched out of the student club Enactus, we were a group of around 8 students and buil up a small manufactory in Kasulu. Initally, it was our plan to have a self-sustainable business model. However this did not work out and so most of the more than 250 distributed filters are donation based. However, they help more than 1000 people to get the access to safe drinking water. 
+
+Check [Waterfilter](https://waterfilter.care) out.
+
 ## Motivation
 Overall, I am mostly motivated about one thing. Motivate people to make the world a bit better by using the amazing technologies and knowledge that are now accessible for humankind. 
 
 Here are some videos which just made me smile and motivate me to become an engineer. 
 
-[Homade Electric Airplane](https://www.youtube.com/watch?v=hp7JcmwKQcU&t=743s)
-[Punch Flamethrower](https://www.youtube.com/watch?v=GS9A1JuOKE8)
-[Lightsaber](https://www.youtube.com/watch?v=xC6J4T_hUKg)
-[Overengineering](https://www.youtube.com/watch?v=h4T_LlK1VE4)
+1. [Homade Electric Airplane](https://www.youtube.com/watch?v=hp7JcmwKQcU&t=743s)
+2. [Punch Flamethrower](https://www.youtube.com/watch?v=GS9A1JuOKE8)
+3. [Lightsaber](https://www.youtube.com/watch?v=xC6J4T_hUKg)
+4. [Overengineering](https://www.youtube.com/watch?v=h4T_LlK1VE4)
 
 You should not watch them, if you still have work to do as they really distracted me.
+
+## Learn More
+1. You can even gather more Info about me on [LinkedIn](https://www.linkedin.com/in/vinzenz-trimborn)
+2. Our look at more [GitHub Projects](https://github.com/VinzenzTrimborn)

@@ -44,9 +44,11 @@ After gaining so many insight into the automation industry, I decided to dive de
 Here you see an image of an ultrasonic sensor connected to an Arduino to retrieve sensor data from it.
 
 ### Check [Waterfilter](https://waterfilter.care) out.
-Last I want to mention a social project. Before I got deeply involved into tech I managed a social student startup, which currencly produces water filters in Kasulu Tanzania. Lounched out of the student club Enactus, we were a group of around 8 students and buil up a small manufactory in Kasulu. Initally, it was our plan to have a self-sustainable business model. However this did not work out and so most of the more than 250 distributed filters are donation based. However, they help more than 1000 people to get the access to safe drinking water.
+Last I want to mention a social project. Before I got deeply involved into tech I managed a social student startup, which currencly produces water filters in Kasulu Tanzania. Lounched out of the student club Enactus, we were a group of around 8 students and built up a small manufactory in Kasulu. Initally, it was our plan to have a self-sustainable business model. However this did not work out and so most of the more than 250 distributed filters are donation based. However, they help more than 1000 people to get the access to safe drinking water.
 
 Check [Waterfilter](https://waterfilter.care) out.
+
+Check out this [Video]() to get inisght into project in Tanzania (2 years ago).
 
 ## Motivation
 Overall, I am mostly motivated about one thing. Motivate people to make the world a bit better by using the amazing technologies and knowledge that are now accessible for humankind. 

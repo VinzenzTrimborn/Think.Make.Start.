@@ -4,7 +4,7 @@
 [image1]: ./examples/simulator.png "Recovery Image"
 [image2]: ./examples/placeholder_small.png "Normal Image"
 
-A **warm welcome** on my Github page. For all of you unfamiliar with Github, it is a space where everybody can share work and awesome projects. This Repository/Site gives you a short introduction to my work and is used to introduce myself online. For Think.Make.Start. I decided to give you a link to this site instead of my [LinkedIn](https://www.linkedin.com/in/vinzenz-trimborn) as it gives you deeper insights into my technical skills, my motivation and provides a chance to get to know me more personal online. 
+A **warm welcome** on my Github page. For all of you unfamiliar with Github, it is a space where everybody can share work and awesome projects but mostly code. This Repository/Site gives you a short introduction to my work and is used to introduce myself online. For Think.Make.Start. I decided to give you a link to this site instead of my [LinkedIn](https://www.linkedin.com/in/vinzenz-trimborn) as it gives you deeper insights into my technical skills, my motivation and provides a chance to get to know me more personal online. 
 
 In the following, I will shortly introduce you to my most exciting projects. After that, I will quickly describe what I am overall excited about so that hopefully you can get to know me online as best as possible. 
 

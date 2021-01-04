@@ -25,10 +25,9 @@ All in all I learn a lot of the fundamentals of robotics. Here you can check out
 ![alt text][image1]
 
 ### 2. [Traffic Sign Classifier (Click here to find out more)](https://github.com/VinzenzTrimborn/TrafficSignClassifier)
- 
-In the end, I had the change to even upload my ROS code on a self-driving car and to let it drive around based on waypoints in a parking lot.
 
 ### 3. My ROS Code on a REAL Self-Driving-CAR
+In the end, I had the change to even upload my ROS code on a self-driving car and to let it drive around based on waypoints in a parking lot.
 
 1. Check it out on my [YouTube](https://youtu.be/89S7Zg-x7hw) (it sadly did not recogize the red light.)
 

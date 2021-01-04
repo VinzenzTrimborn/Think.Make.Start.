@@ -16,11 +16,11 @@ In the following, I will shortly introduce you to my most exciting projects. Aft
 I began teaching myself and trying out things besides university in Mid 2019 after my 4th bachelors semester. I took 4 months off from university before my exchange semester to Singapur/NTU to learn about autonomous driving cars online. Since an autonomous car is a robot, I did some projects concerning ROS (Robot Operating System) and CNN (Convolutional Neural Networks) with which I trained a car to steer correctly in a simulator based on the pictures of the road. Moreover, I did projects recognizing Traffic Signs with a CNN and fundamental principals of computer vision. 
 
 
-### [Behaviour Cloning with CNN in Simulation](https://github.com/VinzenzTrimborn/Behavioral-Cloning)
+### [Behaviour Cloning with CNN in Simulation (Click here to find out more)](https://github.com/VinzenzTrimborn/Behavioral-Cloning)
 
 ![alt text][image1]
 
-### [Traffic Sign Classifier](https://github.com/VinzenzTrimborn/TrafficSignClassifier)
+### [Traffic Sign Classifier (Click here to find out more)](https://github.com/VinzenzTrimborn/TrafficSignClassifier)
  
 In the end, I had the change to even upload my ROS code on a self-driving car and to let it drive around based on waypoints in a parking lot.
 

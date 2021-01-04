@@ -24,7 +24,7 @@ I began teaching myself and trying out things besides university in Mid 2019 aft
  
 In the end, I had the change to even upload my ROS code on a self-driving car and to let it drive around based on waypoints in a parking lot.
 
-1. Check it out on [YouTube](https://youtu.be/89S7Zg-x7hw) (it sadly did not recogize the red light.)
+1. Check it out on my [YouTube](https://youtu.be/89S7Zg-x7hw) (it sadly did not recogize the red light.)
 
 2. Check ou my [Code](https://github.com/VinzenzTrimborn/CarND-Capstone)
 

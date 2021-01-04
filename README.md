@@ -1,11 +1,5 @@
 # Think.Make.Start.
 
-[//]: # (Image References)
-[image1]: ./examples/simulator.png "Recovery Image"
-[image2]: ./examples/ultrasonic.jpeg "Ultrasonic"
-[image3]: ./examples/robotArm.jpeg "Robot Arm"
-[image4]: ./examples/LIDAR.jpeg "LIDAR"
-
 #### A **warm welcome** on my Github page. 
 
 
@@ -24,7 +18,8 @@ All in all I learn a lot of the fundamentals of robotics. Here you can check out
 
 ### 1. [Behaviour Cloning with CNN in Simulation (Click here to find out more)](https://github.com/VinzenzTrimborn/Behavioral-Cloning)
 
-![alt text][image1]
+<img src="./examples/simulator.png" alt="drawing" width="800" height=800/>
+
 
 ### 2. [Traffic Sign Classifier (Click here to find out more)](https://github.com/VinzenzTrimborn/TrafficSignClassifier)
 

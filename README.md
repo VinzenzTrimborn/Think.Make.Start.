@@ -6,7 +6,7 @@ In the following, I will shortly introduce you to my most exciting projects. Aft
 
 ## Projects
 
-I began teaching myself and trying out things besides University in Mid 2019 after my 4th Bachelors semester. I took 4 months off from university before my exchange semester to Singapur/NTU to learn about autonomous driving cars online. Since an autonomous car is a robot I did some projects concerning ROS (Robot Operating System) and CNN (Convolutional Neural Networks) with which I trained a car to steer correctly in a simulator based on the pictures of the road. Moreover, I did projects recognizing Traffic Signs with CNNs and fundamental principals of computer vision. 
+I began teaching myself and trying out things besides university in Mid 2019 after my 4th bachelors semester. I took 4 months off from university before my exchange semester to Singapur/NTU to learn about autonomous driving cars online. Since an autonomous car is a robot I did some projects concerning ROS (Robot Operating System) and CNN (Convolutional Neural Networks) with which I trained a car to steer correctly in a simulator based on the pictures of the road. Moreover, I did projects recognizing Traffic Signs with CNNs and fundamental principals of computer vision. 
 
 In the end, I had the change to even upload my ROS code on a self-driving car and to let it drive around based on waypoints in a parking lot. 
 

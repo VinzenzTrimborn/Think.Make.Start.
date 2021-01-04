@@ -2,7 +2,7 @@
 
 [//]: # (Image References)
 [image1]: ./examples/simulator.png "Recovery Image"
-[image2]: ./examples/placeholder_small.png "Normal Image"
+[image2]: ./examples/ultrasonic.jpeg "Ultrasonic"
 [image3]: ./examples/placeholder_small.png "Normal Image"
 [image4]: ./examples/placeholder_small.png "Normal Image"
 
@@ -45,7 +45,7 @@ After gaining so many insight into the automation industry, I decided to dive de
 ![alt text][image2]
 Here you see an image of an ultrasonic sensor connected to an Arduino to retrieve sensor data from it and the Lidar connected to a computer to visulaize the data. The last pic shows the robot arm which is used to remove the concrete (holding a high pressure water gun).
 
-### Check [Waterfilter](https://waterfilter.care) out.
+### 4. Check [Waterfilter](https://waterfilter.care) out.
 Last I want to mention a social project. Before I got deeply involved into tech I managed a social student startup, which currencly produces water filters in Kasulu Tanzania. Lounched out of the student club Enactus, we were a group of around 8 students and built up a small manufactory in Kasulu. Initally, it was our plan to have a self-sustainable business model. However this did not work out and so most of the more than 250 distributed filters are donation based. However, they help more than 1000 people to get the access to safe drinking water.
 
 Check [Waterfilter](https://waterfilter.care) out.

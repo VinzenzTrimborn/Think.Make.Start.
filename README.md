@@ -41,7 +41,7 @@ During that time a built a software prototype which might be rolled out within t
 
 After gaining so many insight into the automation industry, I decided to dive deeper into hardware instead of Information Systems (my current Study program) and applied for a Modular Robotics Masters project. Currently, we are testing robots/sensors, to automate the difficult task of concrete removal in the construction industry. In a small group, we set up a navigation stack and mounted a LIDAR onto a mobile platform to test out the abilities of localization and navigation in foggy/dirty air construction environments. Thats the Navigation Stack in [Simulation (Rviz and Gazebo)](https://youtu.be/7Jnp075ZveI). 
 
-
+<img src="./examples/ultrasonic.jpeg" alt="drawing" width="200"/>
 ![alt text][image2] ![alt text][image3] ![alt text][image4]
 Here you see an image of an ultrasonic sensor connected to an Arduino to retrieve sensor data from it and the Lidar connected to a computer to visulaize the data. The last pic shows the robot arm which is used to remove the concrete (holding a high pressure water gun).
 

@@ -33,6 +33,7 @@ After my studies at NTU, which were mostly based on Simulation and Business, I g
 
 During that time a built a software prototype which might be rolled out within the next year as part of a new product. I can not share details but if it is rolled out its going to be a part of this [product](https://kinexon.com/de/robotik). 
 
+### 4. Modular Robotics
 After gaining so many insight into the automation industry, I decided to dive deeper into hardware instead of Information Systems (my current Study program) and applied for a Modular Robotics Masters project. Currently, we are testing robots/sensors, to automate the difficult task of concrete removal in the construction industry.
 
 <img src="./examples/ultrasonic.jpeg" alt="drawing" width="200"/> <img src="./examples/robotArm.jpeg" alt="drawing" width="200"/> <img src="./examples/LIDAR.jpeg" alt="drawing" width="200"/>

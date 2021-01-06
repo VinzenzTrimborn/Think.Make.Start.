@@ -10,7 +10,9 @@ This site gives you a short introduction to my work and is used to introduce mys
 <img src="./examples/simulator.png" alt="drawing" width="600" height=450/>
 
 
-### 2. [Traffic Sign Classifier (Click here to find out more)](https://github.com/VinzenzTrimborn/TrafficSignClassifier)
+### 2. [Lane Line Detection (Click here to find out more)](https://github.com/VinzenzTrimborn/AdvancedLaneLines)
+
+<img src="./examples/lane.png" alt="drawing" width="600" height=450/>
 
 ### 3. My ROS Code on a REAL Self-Driving-CAR
 In the end, I had the change to even upload my ROS code on a self-driving car and to let it drive around based on waypoints in a parking lot.

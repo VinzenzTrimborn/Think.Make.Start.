@@ -10,7 +10,7 @@ This site gives you a short introduction to my work and is used to introduce mys
 <img src="./examples/simulator.png" alt="drawing" width="600" height=450/>
 
 
-### 2. [Lane Line Detection (Click here to find out more)](https://github.com/VinzenzTrimborn/AdvancedLaneLines)
+### 2. [Lane Line Detection with Convolutional Neural Networks (Click here to find out more)](https://github.com/VinzenzTrimborn/AdvancedLaneLines)
 
 <img src="./examples/lane.jpg" alt="drawing" width="600" height=450/>
 

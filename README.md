@@ -17,7 +17,7 @@ In the end, I had the change to even upload my ROS code on a self-driving car an
 
 1. Check it out on my [YouTube](https://youtu.be/89S7Zg-x7hw) (it sadly did not recogize the red light.)
 
-2. Check ou my [Code](https://github.com/VinzenzTrimborn/CarND-Capstone)
+2. Check out my [Code](https://github.com/VinzenzTrimborn/CarND-Capstone)
 
 ### 4. KINEXON IoT Product Management Industrie Team
 After my studies at NTU, which were mostly based on Simulation and Business, I got an Internship at [KINEXON](https://kinexon.com) one of the most exciting IoT Companies in Munich. I worked as part of the Product Management Industrie Team, where I gained a lot of insights into the production industry. I learned a lot about the requirements and technical standards and the potential Industrie 4.0 has.

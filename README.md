@@ -1,19 +1,9 @@
-# Think.Make.Start.
-
-#### A **warm welcome** to you on my Github page. 
+#### A **warm welcome** to you on my Github page.
+#### In the following, I will shortly introduce you to my most exciting projects.
 
 This Repository/Site gives you a short introduction to my work and is used to introduce myself online. For Think.Make.Start. I decided to give you a link to this site instead of my LinkedIn as it gives you deeper insights into my technical skills, my motivation and provides a chance to get to know me more personal online. 
 
-In the following, I will shortly introduce you to my most exciting projects. After that, I will quickly describe what I am overall excited about so that hopefully you can get to know me online as best as possible. 
-
 ## Projects
-
-I began teaching myself and trying out things besides university in Mid 2019 after my 4th bachelors semester. I took 4 months off from university before my exchange semester to Singapur/NTU to learn about **autonomous driving cars** online. 
-
-Since an autonomous car is a robot, I did some projects concerning ROS (Robot Operating System) and CNNs (Convolutional Neural Networks), with which I trained a car to steer correctly in a simulator based on the pictures of the road. Moreover, I did projects recognizing Traffic Signs with a CNN and fundamental principals of computer vision.
-
-All in all I learn a lot of the fundamentals of robotics. Here you can check out the most exiting projects I did.
-
 
 ### 1. [Behaviour Cloning with Convolutional Neural Networks in Simulation (Click here to find out more)](https://github.com/VinzenzTrimborn/Behavioral-Cloning)
 
@@ -34,14 +24,7 @@ After my studies at NTU, which were mostly based on Simulation and Business, I g
 
 During that time a built a software prototype which might be rolled out within the next year as part of a new product. I can not share details but if it is rolled out its going to be a part of this [product](https://kinexon.com/de/robotik). 
 
-### 5. Modular Robotics
-After gaining so many insight into the automation industry, I decided to dive deeper into hardware instead of Information Systems (my current study program) and applied for a Modular Robotics Masters project. Currently, we are testing robots/sensors, to automate the difficult task of concrete removal in the construction industry.
-
-<img src="./examples/ultrasonic.jpeg" alt="drawing" width="200"/> <img src="./examples/robotArm.jpeg" alt="drawing" width="200"/> <img src="./examples/LIDAR.jpeg" alt="drawing" width="200"/>
-
-In the left picture, you see an image of an ultrasonic sensor connected to an Arduino microcontroller to retrieve sensor data from it and into ROS. IN the middle you see the robot arm which is used to remove the concrete (it will hold a high pressure water gun). On the right you can see a Lidar connected to a computer to visulaize obstacles around the sensor in 2D.
-
-### 6. Check [Waterfilter](https://waterfilter.care) out.
+### 5. A small social startup: Check [Waterfilter](https://waterfilter.care) out.
 Last I want to mention a social project. Before I got deeply involved into tech I managed a social student startup, which currencly produces water filters in Kasulu Tanzania. Launched out of the student club Enactus, we were a group of around 8 students and built up a small manufactory in Kasulu. Initally, it was our plan to have a self-sustainable business model. However this did not work out and so most of the more than 250 distributed filters are donation based. However, they help more than 1000 people to get the access to safe drinking water.
 
 Check [Waterfilter](https://waterfilter.care) out.

@@ -1,7 +1,7 @@
 #### A **warm welcome** to you on my Github page.
 #### In the following, I will shortly introduce you to my most exciting projects.
 
-This Repository/Site gives you a short introduction to my work and is used to introduce myself online. For Think.Make.Start. I decided to give you a link to this site instead of my LinkedIn as it gives you deeper insights into my technical skills, my motivation and provides a chance to get to know me more personal online. 
+This site gives you a short introduction to my work and is used to introduce myself online. For Think.Make.Start. I decided to give you a link to this site instead of my LinkedIn as it gives you deeper insights into my technical skills, my motivation and provides a chance to get to know me more personal online. 
 
 ## Projects
 

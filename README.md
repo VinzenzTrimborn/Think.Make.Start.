@@ -29,18 +29,19 @@ In the end, I had the change to even upload my ROS code on a self-driving car an
 
 2. Check ou my [Code](https://github.com/VinzenzTrimborn/CarND-Capstone)
 
+### 4. IoT Product Management Industrie Team
 After my studies at NTU, which were mostly based on Simulation and Business, I got an Internship at [KINEXON](https://kinexon.com) one of the most exciting IoT Companies in Munich. I worked as part of the Product Management Industrie Team, where I gained a lot of insights into the production industry. I learned a lot about the requirements and technical standards and the potential Industrie 4.0 has.
 
 During that time a built a software prototype which might be rolled out within the next year as part of a new product. I can not share details but if it is rolled out its going to be a part of this [product](https://kinexon.com/de/robotik). 
 
-### 4. Modular Robotics
+### 5. Modular Robotics
 After gaining so many insight into the automation industry, I decided to dive deeper into hardware instead of Information Systems (my current Study program) and applied for a Modular Robotics Masters project. Currently, we are testing robots/sensors, to automate the difficult task of concrete removal in the construction industry.
 
 <img src="./examples/ultrasonic.jpeg" alt="drawing" width="200"/> <img src="./examples/robotArm.jpeg" alt="drawing" width="200"/> <img src="./examples/LIDAR.jpeg" alt="drawing" width="200"/>
 
-In the left picture, you see an image of an ultrasonic sensor connected to an Arduino microcontroller to retrieve sensor data from it and into ROS. IN the middle you see the robot arm which is used to remove the concrete (it hold a high pressure water gun). On the right you can see a Lidar connected to a computer to visulaize obstacles around the sensor in 2D.
+In the left picture, you see an image of an ultrasonic sensor connected to an Arduino microcontroller to retrieve sensor data from it and into ROS. IN the middle you see the robot arm which is used to remove the concrete (it will hold a high pressure water gun). On the right you can see a Lidar connected to a computer to visulaize obstacles around the sensor in 2D.
 
-### 4. Check [Waterfilter](https://waterfilter.care) out.
+### 6. Check [Waterfilter](https://waterfilter.care) out.
 Last I want to mention a social project. Before I got deeply involved into tech I managed a social student startup, which currencly produces water filters in Kasulu Tanzania. Lounched out of the student club Enactus, we were a group of around 8 students and built up a small manufactory in Kasulu. Initally, it was our plan to have a self-sustainable business model. However this did not work out and so most of the more than 250 distributed filters are donation based. However, they help more than 1000 people to get the access to safe drinking water.
 
 Check [Waterfilter](https://waterfilter.care) out.
